@@ -1,0 +1,74 @@
+{
+    "common": {
+        "welcome": "Hello, I'm",
+        "myname": "Henrique de Souza Lima",
+        "occupation": "Full-Stack Developer",
+        "download": "Download CV",
+        "contactLabel": "Contact me",
+        "aboutLabel": "About me",
+        "developed": "Developed and maintained by",
+        "home": "Home",
+        "projects": "Portfolio",
+        "about": "About",
+        "contact": "Contact",
+
+        "projectSession": {
+            "projects": "FEATURED PROJECTS",
+            "seeMore": "See more on GitHub",
+            "published": "See application",
+            "notPublished": "Application unavailable",
+            "public": "See code",
+            "private": "Private code",
+            "mitehunter": {
+                "header": "Web system focused on the agricultural sector",
+                "description": "Web application for managing strawberry crops against spider mites, integrating sampling with AI code. Created as part of a team where I was a full-track developer"
+            },
+            "techOptions": {
+                "header": "Website to check offers and reviews of tech products",
+                "description": "This system allows you to register products by recording the domain and the value of the best offer and leveling them by user and reviewer ratings"
+            },
+            "readMore": {
+                "header": "Web solution for recording reading productivity",
+                "description": "The system allows users to manage their reading progress, including metrics such as books completed per period and average pages per day"
+            }
+        },
+
+        "aboutSession": {
+            "techs": "TOOLS AND STACKS THAT I USE",
+            "about": "ABOUT ME",
+            "header": "Solving Problems with Objectivity",
+            "experience": "approximately 2 years of experience",
+            "apresentation": "Hello! I'm Henrique, a",
+            "conjunction1": "with",
+            "conjunction2": "in addition to",
+            "conjunction3": "following the principles of",
+            "can": "With knowledge in",
+            "using": "for this, using technologies such as",
+            "starting": "I build web systems aiming at",
+            "focus1": "JWT, RBAC, Data Modeling and UI/UX, enabling a secure experience for the end customer",
+            "focus2": "Clean Code",
+            "focus3": "Laravel, Node.js, and Django on the backend",
+            "focus4": "in Vue, React, and Next on the frontend",
+            "focus5": "efficient and complete deliveries",
+            "focus6": "PostgreSQL with Docker Compose",
+            "focus7": "CI/CD via GitHub Actions",
+            "focus8": "Integration and Unit Testing via PyTest and Vitest",
+            "focus9": "QA",
+            "example": "for example",
+            "testing1": "I am also familiar with performing tasks such as; for example:",
+            "testing2": "Thus, I deliver validated and properly tested code, avoiding frustrations in critical client applications",
+            "complement": "For this as well, I identify and implement",
+            "usecases": "Use Cases and Business Rules",
+            "necessity": "necessary.",
+            "database": "linked to the database"
+        },
+
+        "contactSession": {
+            "contact": "CONTACT",
+            "header": "Let's work on a project from start to finish?",
+            "opportunities": "I am always interested and available for new projects and freelance work! If you are interested in my work, don't hesitate to start your proposal by contacting me through one of the means listed here"
+        }
+
+
+    }
+}
