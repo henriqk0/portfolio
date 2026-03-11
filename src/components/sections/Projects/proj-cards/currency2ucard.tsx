@@ -11,7 +11,7 @@ const images = [
   "/projects/currency2u/register.png",
 ]
 
-export default function ComputerOptionsCard() {
+export default function CurrencyTwoUCard() {
   const { t } = useTranslation()
 
   return (

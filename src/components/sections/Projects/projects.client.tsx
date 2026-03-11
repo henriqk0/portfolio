@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import MiteHunterCard from "./proj-cards/mitehuntercard";
 import ComputerOptionsCard from "./proj-cards/computeroptionscard";
 import PersonalLibraryCard from "./proj-cards/personalibrarycard";
+import CurrencyTwoUCard from "./proj-cards/currency2ucard";
 
 export default function ProjectsAnimation() {
   const { t } = useTranslation()
@@ -40,6 +41,7 @@ export default function ProjectsAnimation() {
         <MiteHunterCard></MiteHunterCard>
         <ComputerOptionsCard></ComputerOptionsCard>
         <PersonalLibraryCard></PersonalLibraryCard>
+        <CurrencyTwoUCard></CurrencyTwoUCard>
 
       </div>
     </motion.div>
