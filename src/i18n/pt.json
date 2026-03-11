@@ -31,7 +31,7 @@
                 "header": "Solução web para registro de produtividade nas leituras",
                 "description": "O sistema permite que usuários gerenciem o progresso em suas leituras, incluindo métricas como a de livros finalizados por período e média de páginas por dia"
             },
-            "currenctwou": {
+            "currencytwou": {
                 "header": "Sistema web stateless para alertas personalizados de valores monetários via email",
                 "description": "O sistema permite que usuários se cadastrem e informem as moedas que desejam vender ou comprar a partir de determinado valor que é monitorado, sendo notificado periodicamente se haver acordo com este valor"
             }
