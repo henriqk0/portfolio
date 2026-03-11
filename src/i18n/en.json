@@ -30,6 +30,10 @@
             "readMore": {
                 "header": "Web solution for recording reading productivity",
                 "description": "The system allows users to manage their reading progress, including metrics such as books completed per period and average pages per day"
+            },
+            "currenctwou": {
+                "header": "Stateless web system for customized monetary value alerts via email",
+                "description": "The system allows users to register and specify the currencies they wish to buy or sell, starting from a certain monitored value. They are periodically notified if an agreement is reached at this value"
             }
         },
 
